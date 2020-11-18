@@ -67,7 +67,7 @@ class TrelloApi:
 			params=params
 		)
 
-		if res.status_code not 200:
+		if res.status_code != 200:
 			print(f"Api error:\n{res.status_code}\n{self.baseUrl+url}")
 			sys.exit()
 
