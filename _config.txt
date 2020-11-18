@@ -1,0 +1,4 @@
+KEY=
+TOKEN=
+contentFilePath=
+boardId=

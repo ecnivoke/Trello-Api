@@ -1,0 +1,6 @@
+name=Name of the card
+LIST_NAME=DEFAULT_TODAY
+&&
+name=Name of card 2
+desc=spoke with customer bla
+LIST_NAME=week 42
